@@ -1,0 +1,3 @@
+pip install streamlit
+pip install openai
+pip install llama_index
